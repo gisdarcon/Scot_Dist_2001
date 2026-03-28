@@ -1,6 +1,6 @@
 /* From http://bost.ocks.org/mike/style.css?20120427 */
  
-@import url(http://fonts.googleapis.com/css?family=PT+Serif|PT+Serif:b|PT+Serif:i|PT+Sans|PT+Sans:b);
+@import url(https://fonts.googleapis.com/css?family=PT+Serif|PT+Serif:b|PT+Serif:i|PT+Sans|PT+Sans:b);
  
 html {
 min-width: 1040px;
@@ -165,11 +165,11 @@ line-height: 0;
 }
  
 q:before {
-content: "â€œ";
+content: "\201C";
 }
  
 q:after {
-content: "â€";
+content: "\201D";
 }
  
 blockquote:before {
